@@ -15,9 +15,9 @@
 	--text-color: #363636;
 	--main-color: brown; */
 	/* --main-color: hsl(250, 52%, 36%); */
-	--bg-color: radial-gradient(circle at 60% 50%, #e0eafc 0%, #cfdef3 100%);
-	--text-color: #1c1c1c;
-	--main-color: #1e3a8a;
+	--bg-color: radial-gradient(circle at 60% 50%, #f5f7fa 0%, #c3cfe2 100%);
+	--text-color: #2c3e50;
+	--main-color: #1a73e8;
 }
 
 body {
